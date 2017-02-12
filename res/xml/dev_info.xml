@@ -134,7 +134,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     android:icon="@drawable/ic_devs_phone">
     <intent
                android:action="android.intent.action.VIEW"
-               android:data="https://plus.google.com/+AbhiramShibu1998" />
+               android:data="https://forum.xda-developers.com/member.php?u=5985430" />
       </PreferenceScreen>
 
       <PreferenceScreen
